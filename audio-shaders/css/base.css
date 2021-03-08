@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Blonde';
-    src: url('/fonts/Blonde.eot');
-    src: url('/fonts/Blonde.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/Blonde.woff2') format('woff2'),
-        url('/fonts/Blonde.woff') format('woff'),
-        url('/fonts/Blonde.ttf') format('truetype');
+    src: url('../fonts/Blonde.eot');
+    src: url('../fonts/Blonde.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Blonde.woff2') format('woff2'),
+        url('../fonts/Blonde.woff') format('woff'),
+        url('../fonts/Blonde.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -12,11 +12,11 @@
 
 @font-face {
     font-family: 'Blonde';
-    src: url('/fonts/Blonde_1.eot');
-    src: url('/fonts/Blonde_1.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/Blonde_1.woff2') format('woff2'),
-        url('/fonts/Blonde_1.woff') format('woff'),
-        url('/fonts/Blonde_1.ttf') format('truetype');
+    src: url('../fonts/Blonde_1.eot');
+    src: url('../fonts/Blonde_1.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Blonde_1.woff2') format('woff2'),
+        url('../fonts/Blonde_1.woff') format('woff'),
+        url('../fonts/Blonde_1.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
